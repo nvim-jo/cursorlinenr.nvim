@@ -1,0 +1,1 @@
+# cursorlinenr.nvim
